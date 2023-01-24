@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2hD5Thr7W4+nnkw43Jyfnm7bUvwwEUW7XcrxsYk2EtQxTukK3E3YgRNCYM+pCM9ftvzlywvVW1GPh3NmoZTGg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\FirstMVCApp\\FirstMVCApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC11451\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
